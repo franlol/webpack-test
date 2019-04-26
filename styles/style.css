@@ -1,0 +1,10 @@
+body {
+  display: flex;
+  justify-content: center;
+  background: rgb(8, 125, 241);
+}
+
+#btn-alert {
+  width: 200px;
+  padding: 10px 30px;
+}
